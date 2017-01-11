@@ -1,2 +1,11 @@
 # NPP-Shelx
-language definition "ShelXL" for editor Notepad++
+
+This XML file aims to extend the languages recognized by the editor Notepad++ [1] by the keywords of ShelXL of the Shelx [2] suite. It is based on the alphabetical list of instructions that alreaday was compiled by Lee Daniels [3] as accessed on January 11th, 2017.  Intentionally, both uppercase as well as lowercase typing of the commands is allowed.  In addition the old SHELXL-97 commands TIME, HOPE and MOLE -- despite being deprecated by now -- are included.
+
+Note that syntax highligting of ShelX commands equally is provided by LaTeX usepackage listings [4]
+
+[1] https://notepad-plus-plus.org/
+[2] http://shelx.uni-ac.gwdg.de/SHELX/
+[3] http://shelx.uni-ac.gwdg.de/SHELX/shelxl_html.php
+
+[4] http://ctan.org/pkg/listings
